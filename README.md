@@ -8,3 +8,5 @@ This project implements the following algorithms:
   Find the hidden states given an observation
   
 2. Hidden Markov Model for continous observations
+
+3. Add Gaussian Mixture Model as Emission Functions
